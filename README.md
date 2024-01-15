@@ -1,5 +1,3 @@
-# Your Name
-
 👋 Hi there! I'm Cristopher, a software developer and tech enthusiast.
 
 ## About Me
