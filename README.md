@@ -18,6 +18,6 @@ I thrive on turning ideas into code and enjoy tackling challenges that push my s
 
 Let's connect and collaborate on exciting projects! You can find me on:
 
-- (LinkedIn): 
+- https://www.linkedin.com/in/cristopher-rosado-miranda-5a9860181?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
