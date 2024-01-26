@@ -9,7 +9,7 @@ I thrive on turning ideas into code and enjoy tackling challenges that push my s
 - **Languages:** Java, JavaScript
 - **Web Development:** HTML, CSS, PHP
 - **Database:** MySQL
-- **Tools:** Git, Jira, Eclipse, VSCode
+- **Tools:** Git, Jira, Eclipse, VSCode, Docker
 
 ## Projects
 (Future Proyects will be displayed down below)
